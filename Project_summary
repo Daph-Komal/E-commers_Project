@@ -1,0 +1,32 @@
+# Project Summary: E-commerce Sales Analysis
+## Project Overview
+This project analyzes E-commerce sales data using Python to uncover insights into customer behavior, product performance, and overall business trends.
+
+## Tech Stack & Libraries Used
+Python: Data processing & analysis
+Pandas: Data cleaning & manipulation
+NumPy: Numerical operations
+Matplotlib & Seaborn: Data visualization
+Datetime: Date conversions & time-based analysis
+Key Features
+
+✅ Data Preprocessing:
+Cleaned raw data by handling missing values & formatting dates.
+
+✅ Exploratory Data Analysis (EDA):
+Analyzed sales trends over time.
+Identified top-selling products & customer segments.
+Evaluated the impact of discounts on revenue.
+
+✅ Visualizations & Insights:
+Revenue & profit trends using line charts.
+Category-wise performance analysis with bar charts.
+Customer segmentation insights with heatmaps.
+
+
+
+
+
+
+
+
